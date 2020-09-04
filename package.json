@@ -1,6 +1,7 @@
 {
-  "name": "@flize/basic-auth-apostrophecms",
+  "name": "@schardt/basic-auth-apostrophecms",
   "version": "1.0.0",
+  "private": false,
   "description": "A zero-dependency ApostroheCMS module for adding basic http authentication support.",
   "main": "index.js",
   "scripts": {
