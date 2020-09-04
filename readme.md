@@ -9,8 +9,8 @@ staging environment with a static username password.
 ### Installation
 
 Install this package
-  - via npm: `npm install --save apostrophe-basic-auth`
-  - via yarn: `yarn add apostrophe-basic-auth`
+  - via npm: `npm install --save @schardt/basic-auth-apostrophecms`
+  - via yarn: `yarn add @schardt/basic-auth-apostrophecms`
 
 
 ### Example
