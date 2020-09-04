@@ -9,7 +9,7 @@ module.exports = {
 
     construct(self, options) {
         self.expressMiddleware = {
-            when: 'beforeRequired',
+            when: 'afterRequired',
             middleware: function(request, response, next) {
                 if (!options.enabled(request) || !(options.username && options.password)) {
                     return;
