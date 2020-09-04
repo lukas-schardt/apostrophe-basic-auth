@@ -16,7 +16,7 @@ Install this package
 ### Example
 
 ```
-'apostrophe-basic-auth': {
+'basic-auth-apostrophecms: {
     username: '<plain-text-username>',
     password: '<plain-text-password>',
     enabled: (request) => {
