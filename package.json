@@ -1,0 +1,19 @@
+{
+  "name": "apostrophe-basic-auth",
+  "version": "1.0.0",
+  "description": "A module for ApostroheCMS for adding basic auth support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukas-schardt/apostrophe-basic-auth.git"
+  },
+  "author": "Lukas Schardt <hallo@lukas-schardt.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukas-schardt/apostrophe-basic-auth/issues"
+  },
+  "homepage": "https://github.com/lukas-schardt/apostrophe-basic-auth#readme"
+}
