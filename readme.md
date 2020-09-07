@@ -16,7 +16,7 @@ Install this package
 ### Example
 
 ```
-'basic-auth-apostrophecms: {
+'@schardt/basic-auth-apostrophecms: {
     username: '<plain-text-username>',
     password: '<plain-text-password>',
     enabled: (request) => {

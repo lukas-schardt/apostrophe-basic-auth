@@ -1,6 +1,6 @@
 {
   "name": "@schardt/basic-auth-apostrophecms",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "A zero-dependency ApostroheCMS module for adding basic http authentication support.",
   "main": "index.js",
